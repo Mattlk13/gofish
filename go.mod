@@ -17,7 +17,7 @@ require (
 	github.com/pierrec/lz4 v2.5.1+incompatible // indirect
 	github.com/sirupsen/logrus v1.5.0
 	github.com/spf13/cobra v1.0.0
-	github.com/ulikunitz/xz v0.5.7 // indirect
+	github.com/ulikunitz/xz v0.5.8 // indirect
 	github.com/yuin/gluamapper v0.0.0-20150323120927-d836955830e7
 	github.com/yuin/gopher-lua v0.0.0-20191220021717-ab39c6098bdb
 )
