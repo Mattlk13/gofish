@@ -67,7 +67,7 @@ jobs:
         run: echo ::set-env name=RELEASE_VERSION::canary
 
       - name: download release assets
-        uses: actions/download-artifact@v2
+        uses: actions/download-artifact@v4.1.7
         with:
           name: gofish
 
